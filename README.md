@@ -8,7 +8,7 @@ This program detects the distance using proximity sensor and based on distance v
 
 ###### Concept behind the project
 
-Read from [thesagarsutar.me/projects/intution](http://thesagarsutar.me/projects/intution)
+Read from [thesagarsutar.me/projects/intuition](http://thesagarsutar.me/projects/intuition)
 
 ###### Requirements
 
