@@ -16,3 +16,9 @@ Read from thesagarsutar.me/portfolio/intution
 2. Ultrasonic Proximity Sensor
 3. DC Motor
 4. L293d Motor driver IC
+
+
+
+## License
+
+See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
